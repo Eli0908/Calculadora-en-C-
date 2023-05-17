@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\bin\Debug\CALCULADOR_DG.exe.config
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\bin\Debug\CALCULADOR_DG.exe
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\bin\Debug\CALCULADOR_DG.pdb
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.CALCULADORA.resources
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.exe
+C:\Users\USUARIO\source\repos\CALCULADOR_DG\CALCULADOR_DG\obj\Debug\CALCULADOR_DG.pdb
